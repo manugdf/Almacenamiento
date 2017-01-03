@@ -3,10 +3,10 @@ Repositorio del módulo de almacenamiento de votos correspondiente al proyecto A
 
 # Documentación
 Toda la documentación de la aplicación, junto a toda la información del equipo de trabajo puede encontrarse encontrarse en 
-https://1984.lsi.us.es/wiki-egc/index.php/Almacenamiento_de_votos_Grupo_2_%28Curso_2015-2016%29
+https://1984.lsi.us.es/wiki-egc/index.php/Almacenamiento_1617_G1
 
 Incluimos también el enlace a la API:
-http://storage-egc1516.rhcloud.com/
+https://egc1617almacenamiento.000webhostapp.com/
 
 # Dependencias
 PHP 5.6
