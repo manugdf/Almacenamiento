@@ -1,8 +1,8 @@
 <?php
 
 $servername = "localhost";
-$username = "localhost";
+$username = "id457692_root";
 $password = "egc1617";
-$dbname = "votes";
+$dbname = "id457692_votes";
 
 ?>

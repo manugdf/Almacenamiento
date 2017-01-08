@@ -197,7 +197,9 @@ $returnUrl= "https://egc1617almacenamiento.000webhostapp.com/"
 				</tr>
 				<tr>
 					<td> 
-						vote (<a rel="nofollow" class="external free" href="https://egc1617almacenamiento.000webhostapp.com/vote.php">https://egc1617almacenamiento.000webhostapp.com/vote.php</a>)
+						vote 
+						<br/>
+						(<a>https://egc1617almacenamiento.000webhostapp.com/vote.php</a>)
 					</td>
 					<td> 
 						POST
@@ -218,7 +220,9 @@ $returnUrl= "https://egc1617almacenamiento.000webhostapp.com/"
 				</tr>
 				<tr>
 					<td> 
-						get_votes (<a rel="nofollow" class="external free" href="https://egc1617almacenamiento.000webhostapp.com/get_votes.php">https://egc1617almacenamiento.000webhostapp.com/get_votes.php</a>)
+						get_votes 
+						<br />
+						(<a>https://egc1617almacenamiento.000webhostapp.com/get_votes.php</a>)
 					</td>
 					<td> 
 						GET
@@ -238,7 +242,9 @@ $returnUrl= "https://egc1617almacenamiento.000webhostapp.com/"
 				</tr>
 				<tr>
 					<td> 
-						get_votations (<a rel="nofollow" class="external free" https://egc1617almacenamiento.000webhostapp.com/get_votations.php">https://egc1617almacenamiento.000webhostapp.com/get_votations.php</a>)
+						get_votations 
+						<br />
+						(<a > https://egc1617almacenamiento.000webhostapp.com/get_votations.php</a>)
 					</td>
 					<td> 
 						GET
@@ -275,7 +281,7 @@ $returnUrl= "https://egc1617almacenamiento.000webhostapp.com/"
                 </div>
                 <div class="col-lg-4 text-center">
                     <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                    <p><a class="cont" href="mailto:your-email@your-domain.com">almacenamiento-de-votos@gmail.com</a></p>
+                    <p><a class="cont" href="mailto:your-email@your-domain.com">almacenamientodevotos17@gmail.com</a></p>
                 </div>
                 <div class="col-lg-4 text-center">
                 </div>
@@ -306,7 +312,7 @@ $returnUrl= "https://egc1617almacenamiento.000webhostapp.com/"
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    EGC 15-16
+                                    EGC 16-17
                                 </div>
                                 <div class="project-name">
                                     &iexcl;Visita la wiki de la asignatura!
